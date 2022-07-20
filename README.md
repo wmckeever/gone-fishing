@@ -17,7 +17,6 @@ Finally, lets assume that it takes one hour to catch each fish.
 
 ## Requirements 📋
 
-* You make at least three commits in git (after completing parts of the project)
 * The user is able to 'catch' fish with randomly generated names, weights, and values
 * The time of day is shown to the user
 * The user can only fish for six hours
