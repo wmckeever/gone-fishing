@@ -102,22 +102,6 @@ Once again, check out [HINTS.md](HINTS.md) for hints on how to build this.
 Tune the minimum and maximum values for your randomly generated fish weights to
 make the user's catch/release decisions non-trivial.
 
-### Add color to the terminal
-
-Add color to your game using the `chalk` module.
-
-This is an external dependency that can be installed with `npm install chalk`.
-
-From here, you can use it like so:
-
-```
-const chalk = require('chalk');
-
-console.log(chalk.blue('Hello world!'));
-```
-
-More information on how to use chalk is available here: https://github.com/chalk/chalk
-
 ### Add realism to the passing of time
 
 Make the amount of time required to catch a fish vary each time instead of always
